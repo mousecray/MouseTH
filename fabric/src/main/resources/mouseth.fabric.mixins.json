@@ -1,0 +1,14 @@
+{
+  "required": true,
+  "minVersion": "0.8",
+  "package": "ru.mousecray.mouseth.mixin",
+  "compatibilityLevel": "JAVA_17",
+  "plugin": "ru.mousecray.mouseth.mixin.MouseTHMixinPlugin",
+  "mixins": [
+  ],
+  "client": [
+  ],
+  "injectors": {
+    "defaultRequire": 1
+  }
+}

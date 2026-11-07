@@ -1,0 +1,34 @@
+{
+  "schemaVersion": 1,
+  "id": "mouseth",
+  "version": "${version}",
+  "name": "${mod_name}",
+  "description": "${description}",
+  "authors": [
+    "${mod_authors}"
+  ],
+  "contact": {
+    "homepage": "",
+    "sources": ""
+  },
+  "license": "${license}",
+  "environment": "client",
+  "entrypoints": {
+    "client": [
+      "ru.mousecray.mouseth.MouseTHFabric"
+    ],
+    "modmenu": [
+      "ru.mousecray.mouseth.patch.ModMenuIntegration"
+    ]
+  },
+  "mixins": [
+    "mouseth.common.mixins.json",
+    "mouseth.fabric.mixins.json"
+  ],
+  "depends": {
+    "fabricloader": ">=0.14",
+    "fabric": "*",
+    "minecraft": "${minecraft_version}",
+    "java": ">=17"
+  }
+}
