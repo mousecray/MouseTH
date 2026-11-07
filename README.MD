@@ -10,8 +10,8 @@ at runtime** without requiring you to repack assets into resource packs or modif
 > ⚠️ **Disclaimer & Project Status**
 > * **Work in Progress:** This mod has not been exhaustively tested across all possible mod combinations and environments. Edge cases,
     incompatibilities, or unexpected issues may occur. Bug reports and feedback are welcome!
-> * **Target Version & Ports:** Currently, there are **no planned ports** to other Minecraft versions. If you need a port
-    to a specific version, feel free to reach out directly via email: [mousecray@gmail.com](mailto:mousecray@gmail.com).
+> * **Target Version & Ports:** Currently, there are **no planned ports** for other versions of Minecraft. If you need a port for a
+    specific version, please email me: [mousecray@gmail.com](mailto:mousecray@gmail.com).
 > * **AI Assistance:** Artificial intelligence tools were employed during the development of this project - specifically, to create and
     adapt multilingual user interface translations for 10 languages.
 
